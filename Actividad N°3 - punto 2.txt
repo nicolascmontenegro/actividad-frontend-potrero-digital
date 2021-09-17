@@ -1,0 +1,7 @@
+2. Hasta el momento tenemos tres elementos con tamaño de tipografía en 18px. 
+Sabiendo que existe la herencia de propiedades, 
+¿se te ocurre de qué manera podríamos definir ese tamaño una sola vez?.
+
+Creando una clase ".tamañodefuente" que solamente tenga el tamaño de fuente y 
+hacer que las demás clases tengan sus propiedades y hereden mediante las propiedades 
+de herencia la que van a compartir que es el tamaño de fuente.
