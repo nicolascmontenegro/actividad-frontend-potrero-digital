@@ -1,0 +1,29 @@
+.clasegenerales {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 18px;
+    font-weight: 900px;
+}
+
+#idtituloprincipal {
+    font-size: 37px;
+    line-height: 46px;
+    font-family: Tahoma, Helvetica, sans-serif;
+    color: #000000;
+}
+
+.clasetitulossecundarios {
+    font-size: 25px;
+    line-height: 38px;
+    font-family: Tahoma, Helvetica, sans-serif;
+}
+
+img {
+    width: 50%; 
+    height: 100%;
+}
+
+.claseparrafos {
+    font-size: 18px;
+    line-height: 27px;
+    color: #333;
+}
